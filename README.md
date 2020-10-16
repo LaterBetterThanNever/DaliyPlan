@@ -1,3 +1,2 @@
 # DaliyPlan
 
-daily plan
